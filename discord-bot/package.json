@@ -1,0 +1,14 @@
+{
+  "name": "astryx-insights",
+  "version": "1.0.0",
+  "description": "Advanced Discord analytics and insights bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "keywords": ["discord", "bot", "analytics"],
+  "author": "",
+  "license": "MIT"
+}
